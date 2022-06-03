@@ -1,6 +1,6 @@
 import fs from 'fs'; // File System
 
-const DATABASE_PATH = './database/index.json';
+const DATABASE_PATH = './database/database.json';
 const originDatabaseData = fs.readFileSync(DATABASE_PATH).toString();
 const db = JSON.parse(originDatabaseData);
 
