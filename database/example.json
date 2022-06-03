@@ -1,4 +1,4 @@
 {
   "users": [{ "id": 1, "name": "user", "password": "******" }],
-  "books": [{ "id": 1, "title": "HTML&CSS", "auther": "Jack" }]
+  "books": [{ "id": 1, "title": "HTML&CSS", "author": "Jack" }]
 }
